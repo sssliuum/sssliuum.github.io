@@ -9,8 +9,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "shospital.github.io",
+    "title": "Sunny Hospital",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "As an Operations Manager at NOAA PolarWatch (Polar node of CoastWatch), I oversee daily opeations, focusing on data processing and partner/user engagement.\nAreas of expertise and interest include data management, statistical modeling, and scientific computing."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sunny Hospital",
+    "section": "Education",
+    "text": "Education\nM.S. Statistics (2011) | Colorado State University\nThesis: “Modeling Bobcat Movements in Relation to Landscape Features Using Classical Movement Models and Artificial Neural Networks with Genetic Algorithms”\nB.S. Computer Science, Statistics (2001) | University of California, Davis"
+  },
+  {
+    "objectID": "index.html#experiences",
+    "href": "index.html#experiences",
+    "title": "Sunny Hospital",
+    "section": "Experiences",
+    "text": "Experiences\nPolarWatch Ops Manager (2022-Present) | NOAA CoastWatch/UCSC\nConsultant (2012-2022) | Goguma LLC\nSoftware Engineer (2020-2021) | Oceanit\nSoftware Engineer (2011-2012) | ParWinr\nApplication Developer (2005-2009) | NOAA PIFSC\nData Management Specialist (2002-2005) | NOAA PIFSC"
   }
 ]

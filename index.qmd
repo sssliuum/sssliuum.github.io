@@ -1,7 +1,45 @@
 ---
-title: "shospital.github.io"
+title: "Sunny Hospital"
+image: Sunny.jpeg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: GitHub
+      href: https://github.com/shospital
+    - text: Email
+      href: mailto:shospital@noaa.gov
+
+#https://quarto.org/docs/websites/website-about.html#templates
 ---
 
-This is a Quarto website.
+As an Operations Manager at NOAA PolarWatch (Polar node of CoastWatch), I oversee daily
+opeations, focusing on data processing and partner/user engagement.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Areas of expertise and interest include data management, statistical modeling, and scientific computing. 
+
+## Experiences
+
+**PolarWatch Ops Manager** (2022-Present) | NOAA CoastWatch/UCSC
+
+**Consultant** (2012-2022) | Goguma LLC
+
+**Software Engineer** (2020-2021) | Oceanit
+
+**Software Engineer** (2011-2012) | ParWinr
+
+**Application Developer** (2005-2009) | NOAA PIFSC
+
+**Data Management Specialist** (2002-2005) | NOAA PIFSC
+
+
+
+## Education
+
+**M.S. Statistics** (2011) | Colorado State University
+
+*Thesis: "Modeling Bobcat Movements in Relation to Landscape Features Using Classical Movement Models and Artificial Neural Networks with Genetic Algorithms"*
+
+**B.S. Computer Science, Statistics** (2001)  | University of California, Davis 
