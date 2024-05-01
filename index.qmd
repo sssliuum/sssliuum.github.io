@@ -18,24 +18,28 @@ about:
 I am the operations manager for CoastWatch Great Lakes Node. I have been working on satellite data for over two decades. My work is mainly focused on how to transform satellite data into daily usage. I developed Great Lakes satellite data training and tutorial materials to help users better understand and utilize these products.  
 
 ## Areas of Expertise and Interest
-Satellite data acquisition and processing.
-Satellite data product development.
-Data server management.
-Satellite data training
+*Satellite data acquisition and processing.
+
+*Satellite data product development.
+
+*Data server management.
+
+*Satellite data training.
 
 
 ## Experiences
 
-**General Programmer/Analyst Lead (2019-present) | CIGLR SEAS University of Michigan
+*General Programmer/Analyst Lead (2019-present) | CIGLR SEAS University of Michigan
 
-**General Programmer/Analyst Sr (2005-2019) | CIGLR SEAS University of Michigan
+*General Programmer/Analyst Sr (2005-2019) | CIGLR SEAS University of Michigan
 
-**Programmer Analyst I (1997-2005) | CILER University of Michigan
+*Programmer Analyst I (1997-2005) | CILER University of Michigan
 
 
 
 ## Education
 
-**Master Degree in Computer Science, Eastern Michigan University (1997)
-**Bachelor Degree in Engineering, Henan Polytechnic University (1981)
+*Master Degree in Computer Science, Eastern Michigan University (1997)
+
+*Bachelor Degree in Engineering, Henan Polytechnic University (1981)
 
