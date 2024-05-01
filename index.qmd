@@ -15,10 +15,11 @@ about:
 #https://quarto.org/docs/websites/website-about.html#templates
 ---
 
-As an Operations Manager at NOAA PolarWatch (Polar node of CoastWatch), I oversee daily
-opeations, focusing on data processing and partner/user engagement.
 
-Areas of expertise and interest include data management, statistical modeling, and scientific computing. 
+## Areas of Expertise and Interest
+Statistical Modeling, Machine Learning, Scientific Computing, Cyber Security,
+Data Visualization, Data Management, Project Management
+
 
 ## Experiences
 

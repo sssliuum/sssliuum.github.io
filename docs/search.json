@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Sunny Hospital",
     "section": "",
-    "text": "As an Operations Manager at NOAA PolarWatch (Polar node of CoastWatch), I oversee daily opeations, focusing on data processing and partner/user engagement.\nAreas of expertise and interest include data management, statistical modeling, and scientific computing."
+    "text": "Statistical Modeling, Machine Learning, Scientific Computing, Cyber Security, Data Visualization, Data Management, Project Management"
+  },
+  {
+    "objectID": "index.html#areas-of-expertise-and-interest",
+    "href": "index.html#areas-of-expertise-and-interest",
+    "title": "Sunny Hospital",
+    "section": "",
+    "text": "Statistical Modeling, Machine Learning, Scientific Computing, Cyber Security, Data Visualization, Data Management, Project Management"
   },
   {
     "objectID": "index.html#experiences",

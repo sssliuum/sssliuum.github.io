@@ -15,6 +15,5 @@ format:
     theme: flatly
     css: styles.css
     toc: true
-
-
-
+    grid:
+      body-width: 1200px
