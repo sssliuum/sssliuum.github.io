@@ -1,6 +1,6 @@
 ---
-title: "Sunny Hospital"
-image: Sunny.jpeg
+title: "Songzhi Liu"
+image: songzhi.jpg
 toc: false
 about: 
   template: trestles
@@ -8,39 +8,33 @@ about:
   image-width: 20em
   links:
     - text: GitHub
-      href: https://github.com/shospital
+      href: https://github.com/sssliuum
     - text: Email
-      href: mailto:shospital@noaa.gov
+      href: mailto:sssliu@umich.edu
 
 #https://quarto.org/docs/websites/website-about.html#templates
 ---
 
 
 ## Areas of Expertise and Interest
-Statistical Modeling, Machine Learning, Scientific Computing, Cyber Security,
-Data Visualization, Data Management, Project Management
+Satellite data acquisition and processing.
+Satellite data product development.
+Data server management.
+Satellite data training
 
 
 ## Experiences
 
-**PolarWatch Ops Manager** (2022-Present) | NOAA CoastWatch/UCSC
+**General Programmer/Analyst Lead (2019-present) | CIGLR SEAS University of Michigan
 
-**Consultant** (2012-2022) | Goguma LLC
+**General Programmer/Analyst Sr (2005-2019) | CIGLR SEAS University of Michigan
 
-**Senior Software Engineer** (2020-2021) | Oceanit
-
-**Senior Software Engineer** (2011-2012) | ParWinr
-
-**Application Developer** (2005-2009) | NOAA PIFSC
-
-**Data Management Specialist** (2002-2005) | NOAA PIFSC
+**Programmer Analyst I (1997-2005) | CILER University of Michigan
 
 
 
 ## Education
 
-**M.S. Statistics** (2011) | Colorado State University
+**Master Degree in Computer Science, Eastern Michigan University (1997)
+**Bachelor Degree in Engineering, Henan Polytechnic University (1981)
 
-*Thesis: "Modeling Bobcat Movements in Relation to Landscape Features Using Classical Movement Models and Artificial Neural Networks with Genetic Algorithms"*
-
-**B.S. Computer Science, Statistics** (2001)  | University of California, Davis 
