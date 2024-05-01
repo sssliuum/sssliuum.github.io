@@ -15,6 +15,7 @@ about:
 #https://quarto.org/docs/websites/website-about.html#templates
 ---
 
+I am the operations manager for CoastWatch Great Lakes Node. 
 
 ## Areas of Expertise and Interest
 Satellite data acquisition and processing.
